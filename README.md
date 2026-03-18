@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there 👋
+
+This is Jing Shao (邵晶)!
+
+[Website](https://jingshao-code.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=cqqQyRYAAAAJ) · [Gmail](mailto:im.shaojing@gmail.com)
+
+I am a Master’s student in Computer Software Engineering at Northeastern University. My research focuses on trustworthy and efficient algorithms.
+
+Visit my homepage for more information. Feel free to reach out to me via email for collaboration!
 
 <!--
 **jingshao-code/jingshao-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
