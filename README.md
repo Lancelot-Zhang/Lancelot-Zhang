@@ -2,9 +2,9 @@
 
 This is Jing Shao (邵晶)!
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge)](https://jingshao-code.github.io/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=cqqQyRYAAAAJ)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im.shaojing@gmail.com)
+[![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge)](https://jingshao-code.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-2F6FDB?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=cqqQyRYAAAAJ)
+[![Gmail](https://img.shields.io/badge/Gmail-B3261E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im.shaojing@gmail.com)
 
 I am a Master’s student in Computer Software Engineering at Northeastern University. My research focuses on trustworthy and efficient algorithms.
 
