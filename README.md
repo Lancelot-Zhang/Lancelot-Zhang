@@ -6,7 +6,7 @@ This is Jing Shao (邵晶)!
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-2F6FDB?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=cqqQyRYAAAAJ)
 [![Gmail](https://img.shields.io/badge/Gmail-B3261E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im.shaojing@gmail.com)
 
-I am a Master’s student in Computer Software Engineering at Northeastern University. My research focuses on trustworthy and efficient algorithms.
+My research focuses on trustworthy and efficient algorithms.
 
 Visit my homepage for more information. Feel free to reach out to me via email for collaboration!
 
