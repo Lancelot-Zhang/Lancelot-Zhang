@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-This is Hongyi Zhang! 
+This is Hongyi Zhang.
 
 My research focuses on Artificial Intelligence, Machine Learning, Mathematical Modeling, and Biomedical Informatics.
 
