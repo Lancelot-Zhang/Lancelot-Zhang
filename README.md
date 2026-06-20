@@ -1,4 +1,4 @@
-# Hi there! This is Hongyi!
+<h1 align="center">Hi there! I am Hongyi!</h1>
 
 My research focuses on Artificial Intelligence, Machine Learning, Mathematical Modeling, and Biomedical Informatics.
 
